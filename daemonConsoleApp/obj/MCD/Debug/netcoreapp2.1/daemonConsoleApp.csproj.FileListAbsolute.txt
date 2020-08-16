@@ -1,0 +1,12 @@
+C:\my work\technical\blogs\azure-daemonapp-protectedapi-MSAL-oAuth\daemonConsoleApp\bin\MCD\Debug\netcoreapp2.1\daemonConsoleApp.deps.json
+C:\my work\technical\blogs\azure-daemonapp-protectedapi-MSAL-oAuth\daemonConsoleApp\bin\MCD\Debug\netcoreapp2.1\daemonConsoleApp.runtimeconfig.json
+C:\my work\technical\blogs\azure-daemonapp-protectedapi-MSAL-oAuth\daemonConsoleApp\bin\MCD\Debug\netcoreapp2.1\daemonConsoleApp.runtimeconfig.dev.json
+C:\my work\technical\blogs\azure-daemonapp-protectedapi-MSAL-oAuth\daemonConsoleApp\bin\MCD\Debug\netcoreapp2.1\daemonConsoleApp.dll
+C:\my work\technical\blogs\azure-daemonapp-protectedapi-MSAL-oAuth\daemonConsoleApp\bin\MCD\Debug\netcoreapp2.1\daemonConsoleApp.pdb
+C:\my work\technical\blogs\azure-daemonapp-protectedapi-MSAL-oAuth\daemonConsoleApp\obj\MCD\Debug\netcoreapp2.1\daemonConsoleApp.csprojAssemblyReference.cache
+C:\my work\technical\blogs\azure-daemonapp-protectedapi-MSAL-oAuth\daemonConsoleApp\obj\MCD\Debug\netcoreapp2.1\daemonConsoleApp.AssemblyInfoInputs.cache
+C:\my work\technical\blogs\azure-daemonapp-protectedapi-MSAL-oAuth\daemonConsoleApp\obj\MCD\Debug\netcoreapp2.1\daemonConsoleApp.AssemblyInfo.cs
+C:\my work\technical\blogs\azure-daemonapp-protectedapi-MSAL-oAuth\daemonConsoleApp\obj\MCD\Debug\netcoreapp2.1\daemonConsoleApp.csproj.CoreCompileInputs.cache
+C:\my work\technical\blogs\azure-daemonapp-protectedapi-MSAL-oAuth\daemonConsoleApp\obj\MCD\Debug\netcoreapp2.1\daemonConsoleApp.dll
+C:\my work\technical\blogs\azure-daemonapp-protectedapi-MSAL-oAuth\daemonConsoleApp\obj\MCD\Debug\netcoreapp2.1\daemonConsoleApp.pdb
+C:\my work\technical\blogs\azure-daemonapp-protectedapi-MSAL-oAuth\daemonConsoleApp\obj\MCD\Debug\netcoreapp2.1\daemonConsoleApp.genruntimeconfig.cache
